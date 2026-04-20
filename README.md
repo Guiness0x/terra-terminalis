@@ -1,69 +1,71 @@
 # Terra Terminalis
 
-A command-based productivity system for people who think better with structure.
+A command-based notebook system for people who prefer structure over chaos.
 
-Built for individuals who want clarity, execution, and control without bloated apps or endless distractions.
+Terra Terminalis brings the spirit of analog notebooks into a digital terminal environment.
+
+Plain text.  
+Direct control.  
+No subscriptions.  
+No bloat.
+
+---
+
+## Built For
+
+- disciplined thinkers  
+- builders  
+- terminal users  
+- people who work better with systems  
+- individuals tired of noisy productivity tools
+
+## Not Built For
+
+- passive consumers  
+- trend chasers  
+- people needing hand-holding  
+- those wanting flashy all-in-one apps
 
 ---
 
 ## Core Modules
 
 ### Pocket
-Capture thoughts, ideas, notes, and fragments quickly.
+Capture thoughts, ideas, fragments, and raw entries.
 
 ### Iter
-Analyze subjects deeply, break down ideas, and form clear positions.
+Break down subjects, examine ideas, and form positions.
 
 ### Atlas
-Build projects, continue work, and organize execution.
+Build projects and maintain execution flow.
 
 ### Ledger
-Track finances, records, summaries, and accountability.
-
----
-
-## Why Terra Terminalis
-
-Most tools create clutter.
-
-Terra Terminalis creates structure.
-
-It is designed for people who prefer:
-
-- plain text over noise  
-- systems over chaos  
-- execution over procrastination  
-- ownership over subscriptions  
+Track money, records, summaries, and accountability.
 
 ---
 
 ## Product Catalog
 
-- Pocket — $10  
-- Iter — $15  
-- Atlas — $15  
-- Ledger — $20  
-- Full System — $45  
+- Pocket — $10
+- Iter — $15
+- Atlas — $15
+- Ledger — $20
+- Full System — $45
+
+---
+
+## Operating Style
+
+Capture → Analyze → Build → Track
 
 ---
 
 ## Delivery
 
-All products are digital and delivered after purchase.
-
----
-
-## Built For
-
-- creators  
-- independent thinkers  
-- terminal users  
-- organized builders  
-- people tired of bloated productivity apps
+Digital download after purchase.
 
 ---
 
 ## Contact
 
 your-email@example.com
-
