@@ -13,7 +13,7 @@ No noise.
 
 ## What Terra Is
 
-Terra Terminalis is a modular notebook environment designed for capture, analysis, execution, and accountability.
+Terra Terminalis is a modular notebook environment designed for capture, analysis, technical creation, and accountability.
 
 Instead of bloated productivity apps, Terra focuses on practical systems that stay out of your way.
 
@@ -28,7 +28,7 @@ Capture thoughts, quick notes, raw ideas, fragments, and entries.
 Analyze topics deeply, break down ideas, and form clear positions.
 
 ### Atlas
-Build projects, maintain direction, and continue execution.
+Technical notebook for coders, developers, builders, scripting workflows, systems design, and structured execution.
 
 ### Ledger
 Track finances, records, summaries, and personal accountability.
@@ -39,10 +39,11 @@ Track finances, records, summaries, and personal accountability.
 
 - disciplined thinkers  
 - builders  
+- coders  
+- developers  
 - terminal users  
 - independent workers  
-- people tired of cluttered apps  
-- those who value ownership and control
+- people tired of cluttered apps
 
 ---
 
@@ -61,7 +62,7 @@ Track finances, records, summaries, and personal accountability.
 |--------|---------|------|
 | Pocket | Capture | $10 |
 | Iter | Analyze | $15 |
-| Atlas | Build | $15 |
+| Atlas | Technical Build | $15 |
 | Ledger | Track | $20 |
 | Full System | Complete Suite | $45 |
 
