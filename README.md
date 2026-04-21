@@ -1,13 +1,13 @@
 # Terra Terminalis
 
-A command-based notebook system built for people who prefer structure over chaos.
+A command-based notebook system built for people who value structure, clarity, and direct control.
 
 Terra Terminalis brings the spirit of analog notebooks into a durable digital format through the terminal.
 
 Plain text.  
-Direct control.  
+Focused workflows.  
 No subscriptions.  
-No noise.
+No unnecessary complexity.
 
 ---
 
@@ -15,17 +15,17 @@ No noise.
 
 Terra Terminalis is a modular notebook environment designed for capture, analysis, technical creation, and accountability.
 
-Instead of bloated productivity apps, Terra focuses on practical systems that stay out of your way.
+Instead of relying on bloated software, Terra focuses on practical systems that remain clear, lightweight, and dependable.
 
 ---
 
 ## Core Modules
 
 ### Pocket
-Capture thoughts, quick notes, raw ideas, fragments, and entries.
+Capture thoughts, quick notes, raw ideas, fragments, and daily entries.
 
 ### Iter
-Analyze topics deeply, break down ideas, and form clear positions.
+Analyze subjects deeply, break down ideas, and form clear positions.
 
 ### Atlas
 Technical notebook for coders, developers, builders, scripting workflows, systems design, and structured execution.
@@ -43,16 +43,13 @@ Track finances, records, summaries, and personal accountability.
 - developers  
 - terminal users  
 - independent workers  
-- people tired of cluttered apps
+- people who prefer focused tools
 
 ---
 
-## Not Built For
+## Operating Preference
 
-- passive consumers  
-- trend chasing productivity users  
-- people wanting hand-holding  
-- those seeking flashy all-in-one tools
+Best suited for users who appreciate structured systems, plain text workflows, and ownership over their tools.
 
 ---
 
